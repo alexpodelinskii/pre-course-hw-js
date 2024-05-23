@@ -11,10 +11,10 @@ if (number1 % 2 === 1) {
 */
 //task 3
 let number = 1;
-console.log(number++);
-console.log(++number);
-console.log(number--);
-console.log(--number);
+console.log(1);
+console.log(3);
+console.log(3);
+console.log(1);
 
 //task 4
 /*
