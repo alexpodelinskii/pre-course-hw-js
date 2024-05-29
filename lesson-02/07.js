@@ -13,5 +13,5 @@ const passportMarried2 = structuredClone(passportMarried);
 
 passportMarried.married = true;
 
-console.log(ppassportMarried);
+console.log(passportMarried);
 console.log(passportMarried2);
