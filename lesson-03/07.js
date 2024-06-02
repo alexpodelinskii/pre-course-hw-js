@@ -6,7 +6,7 @@ const numbers = [
 
 
 const numbers2 = numbers.map(el => {
-    const elWithoutOdd = el.filter(e => e % 2)
+    const elWithoutOdd = el.filter(e => !(e % 2))
     return elWithoutOdd;
 });
 
